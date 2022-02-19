@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Jordan White</title>
+    <link>https://example.com/</link>
+    <description>Recent content in Home on Jordan White</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 29 Jan 2022 14:32:39 +0100</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://example.com/posts/about/</link>
+      <pubDate>Sat, 29 Jan 2022 14:32:39 +0100</pubDate>
+      
+      <guid>https://example.com/posts/about/</guid>
+      <description>jordan is COOL vivi is HOT together they are LUKE WARM</description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://example.com/posts/my-first-post/</link>
+      <pubDate>Sat, 29 Jan 2022 13:55:39 +0100</pubDate>
+      
+      <guid>https://example.com/posts/my-first-post/</guid>
+      <description>hi, just testing some stuff here
+ok, that went amazingly quickly</description>
+    </item>
+    
+    <item>
+      <title>Jordan White&#39;s Ceramic Tiles</title>
+      <link>https://example.com/music/ceramic_tiles/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/music/ceramic_tiles/</guid>
+      <description>In the era of facial recognition software, social media feeds designed to keep us depressed and addicted, and Spotify playlists feeding us the same nostalgic 80s trash (no judgement) over and over again, algorithms are getting a pretty bad rap. Facebook, Amazon and other Big Tech are using algorithms for their own nefarious purposes to develop a kind of technofeudalist Panopticon. It&amp;rsquo;s pretty grim.
+This makes me pretty sad, because I think algorithms can also be really beautiful!</description>
+    </item>
+    
+    <item>
+      <title>Los Excéntricos</title>
+      <link>https://example.com/music/excentricos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/music/excentricos/</guid>
+      <description>Los Excéntricos is a new band which is authentically, quintessentially Weimar – musicians from Germany, Cuba, Colombia, Brazil and Australia working together, combining a wealth of traditional knowledge to develop their own style together. Literally ‘the Eccentrics’ in Spanish, Los Excéntricos play an extremely varied mixture of groove-based, highly polyrhythmic music, with nods to music from Cuba, Mali and Peru, as well as the work of jazz musicians who have been doing just that for a bit longer.</description>
+    </item>
+    
+    <item>
+      <title>Redbank</title>
+      <link>https://example.com/music/redbank/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/music/redbank/</guid>
+      <description>Redbank is the name of a creek which runs through North Richmond, NSW, where Jordan’s grandmother lives on Guringai country which was never ceded. It is also the name of a large housing development in the same town. The name ‘Redbank’ acts as a reminder of the complexities inherent in heritage and tradition, as well as their relevance to contemporary developments, whether artistic or otherwise.
+Jordan founded the group Redbank in early 2019, aiming to explore concepts from the spectral music of Gerard Grisey and Kaija Saariaho in combination with ideas from traditional and modern music from Mali, Mozambique and Cuba in a semi-improvised context.</description>
+    </item>
+    
+    <item>
+      <title>Solo</title>
+      <link>https://example.com/music/solo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/music/solo/</guid>
+      <description>I started performing solo guitar seriously in 2014, after a number of duo collaborations with dancers and artists. In 2018, I performed live for 90 minutes at the premiere Sleep Concert in Weimar, Germany, a challenging but rewarding experience both musically and psychologically. I’ve has continued to perform improvised and semi-improvised solo concerts in Weimar, Germany, including Sleep Concerts for two hours in January 2019 and September 2020.
+Live @ Klangrausch by Jordan White </description>
+    </item>
+    
+    <item>
+      <title>The Algorithm Project</title>
+      <link>https://example.com/music/the_algorithm_project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/music/the_algorithm_project/</guid>
+      <description>In November and December 2021 I worked on what I&amp;rsquo;ve decided to call &amp;ldquo;The Algorithm Project&amp;rdquo;. After a few years of learning about electroacoustic music, algorithmic composition and live coding, I decided to try to apply some of these concepts to jazz composition and see what happens.
+The process was basically as follows:
+I wrote a bunch of music. About half the pieces started as algorithms in SuperCollider that I then &amp;ldquo;translated&amp;rdquo; into musical notation for the musicians.</description>
+    </item>
+    
+  </channel>
+</rss>

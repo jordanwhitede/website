@@ -63,7 +63,8 @@ hr {
   opacity: 0.3; }
 
 nav {
-  margin: 1em auto; }
+  margin: 1em auto;
+  float: center; }
 
 .wrap {
   margin: 0 auto;

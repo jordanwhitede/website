@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Jordan White</title>
+    <link>https://example.com/tags/</link>
+    <description>Recent content in Tags on Jordan White</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 29 Jan 2022 14:32:39 +0100</lastBuildDate><atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>blog</title>
+      <link>https://example.com/tags/blog/</link>
+      <pubDate>Sat, 29 Jan 2022 14:32:39 +0100</pubDate>
+      
+      <guid>https://example.com/tags/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>story</title>
+      <link>https://example.com/tags/story/</link>
+      <pubDate>Sat, 29 Jan 2022 14:32:39 +0100</pubDate>
+      
+      <guid>https://example.com/tags/story/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

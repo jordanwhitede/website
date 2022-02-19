@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blog on Jordan White</title>
+    <link>https://example.com/tags/blog/</link>
+    <description>Recent content in blog on Jordan White</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 29 Jan 2022 14:32:39 +0100</lastBuildDate><atom:link href="https://example.com/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://example.com/posts/about/</link>
+      <pubDate>Sat, 29 Jan 2022 14:32:39 +0100</pubDate>
+      
+      <guid>https://example.com/posts/about/</guid>
+      <description>jordan is COOL vivi is HOT together they are LUKE WARM</description>
+    </item>
+    
+  </channel>
+</rss>
