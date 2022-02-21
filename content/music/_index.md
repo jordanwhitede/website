@@ -3,4 +3,4 @@ title: "Music"
 draft: false
 ---
 
-![jordan](/photo1.jpeg)
+![jordan](/photo1_scaled.jpeg)

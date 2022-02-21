@@ -3,7 +3,7 @@ title: "Teaching"
 draft: false
 ---
 
-![jordan](/photo3.jpeg)
+![jordan](/photo3_scaled.jpeg)
 
 Currently I'm not teaching so much, but I'm available for individual lessons and workshops, and can be contacted here: jordanwhitede@gmail.com
 

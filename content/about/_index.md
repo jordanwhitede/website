@@ -3,7 +3,7 @@ title: "About"
 draft: "false"
 ---
 
-![jordan](/photo0.jpeg)
+![jordan](/photo0_scaled.jpeg)
 
 Jordan White (b. 1993 in Parramatta, Australia) studied Contemporary Music at the Victorian College of the Arts in Melbourne under Stephen Magnusson, Andrea
  Keller, Tim Stevens and Geoff Hughes. During this time he worked in Melbourne as a performer, composer and curator of music and performance art, also co-founding YoWo Music in 2015. Jordan then moved to Leipzig, Germany in 2016 and studied Jazz Guitar and New Music at the Hochschule für Musik Franz Liszt Weimar under Frank Möbus and Peter Ehwald. He continues to develop as a composer and improviser in solo, jazz and electronic settings, primarily performing with
