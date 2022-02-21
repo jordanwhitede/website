@@ -5,27 +5,7 @@
     <link>https://example.com/</link>
     <description>Recent content in Home on Jordan White</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 29 Jan 2022 14:32:39 +0100</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About</title>
-      <link>https://example.com/posts/about/</link>
-      <pubDate>Sat, 29 Jan 2022 14:32:39 +0100</pubDate>
-      
-      <guid>https://example.com/posts/about/</guid>
-      <description>jordan is COOL vivi is HOT together they are LUKE WARM</description>
-    </item>
-    
-    <item>
-      <title>My First Post</title>
-      <link>https://example.com/posts/my-first-post/</link>
-      <pubDate>Sat, 29 Jan 2022 13:55:39 +0100</pubDate>
-      
-      <guid>https://example.com/posts/my-first-post/</guid>
-      <description>hi, just testing some stuff here
-ok, that went amazingly quickly</description>
-    </item>
-    
+    <language>en-us</language><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Jordan White&#39;s Ceramic Tiles</title>
       <link>https://example.com/music/ceramic_tiles/</link>
