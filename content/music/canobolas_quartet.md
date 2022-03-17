@@ -1,3 +1,8 @@
+---
+title: "Canobolas Quartet"
+---
+
+
 Der australische Musiker Jordan White kriegt langsam Aufmerksamkeit für seine Arbeit als Komponist, Live-Coder und Kurator. Mit seinem Hauptinstrument, die E-Gitarre, tut er sich aber seit einigen Jahren eher schwer. So geht das aber nicht weiter!
 
 Jordan will wieder die Liebe zur E-Gitarre entdecken, und hat dafür die hervorragende E-Gitarristin Steffi Narr gewonnen, sowie Philipp Martin am E-Bass und Steffen Roth am Schlagzeug. Mit seinen Mitmusiker*innen sucht er tief in sich wieder nach das was an E-Gitarre ihn mal so begeistert hatte - und was das Instrument noch anzubieten hat.
