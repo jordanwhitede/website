@@ -15,7 +15,7 @@ We recorded in the beautiful [Zentrifuge](http://www.studio-zentrifuge.de/) stud
 
 The two recordings are:
 
-Redbank: NAME
+Redbank
 
 ft.
 [Georg Demel](https://georgdemel.de/) - trombone
@@ -24,7 +24,7 @@ Lorenz Heigenhuber - bass
 
 and
 
-NAME: Essays and Algorithms
+Ceramic Tiles
 
 ft.
 [Peter Ehwald](https://www.peter-ehwald.net/) - saxophone
