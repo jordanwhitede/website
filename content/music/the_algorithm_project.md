@@ -18,15 +18,23 @@ The two recordings are:
 Redbank
 
 ft.
+
 [Georg Demel](https://georgdemel.de/) - trombone
+
 Lorenz Heigenhuber - bass
+
 [Max Stadfeld](https://www.max-stadtfeld.de/) - drums
 
+
 and
+
 
 Ceramic Tiles
 
 ft.
+
 [Peter Ehwald](https://www.peter-ehwald.net/) - saxophone
+
 Jonas Westergaard - bass
+
 [Max Stadtfeld](https://www.max-stadtfeld.de/) - drums
