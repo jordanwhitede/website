@@ -7,6 +7,7 @@ title: "Canobolas Quartet"
 I have a new band! We've got two gigs coming up.
 
 10.6 - Other Music Academy, Weimar at 19:30
+
 11.6 - ateliercafé flow, Kranichfeld - [tickets here](https://www.den-flow-geniessen.de/event-details/jazz-k-o-n-z-e-r-t)
 
 
