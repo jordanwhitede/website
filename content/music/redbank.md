@@ -3,7 +3,7 @@ title: "Redbank"
 draft: false
 ---
 
-Redbank is the name of a creek which runs through North Richmond, NSW, where Jordan’s grandmother lives on Guringai country which was never ceded. It is also the name of a large housing development in the same town. The name ‘Redbank’ acts as a reminder of the complexities inherent in heritage and tradition, as
+Redbank is the name of a creek which runs through North Richmond, NSW, where Jordan’s grandmother lives on Darug country which was never ceded. It is also the name of a large housing development in the same town. The name ‘Redbank’ acts as a reminder of the complexities inherent in heritage and tradition, as
  well as their relevance to contemporary developments, whether artistic or otherwise.
 
 Jordan founded the group Redbank in early 2019, aiming to explore concepts from the spectral music of Gerard Grisey and Kaija Saariaho in combination with 

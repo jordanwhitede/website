@@ -30,9 +30,9 @@ pygmentsCodefences       = true
     link = "music"
     text = "Music"
 
-[[params.mainMenu]]
-    link = "teaching"
-    text = "Teaching"
+#[[params.mainMenu]]
+ #   link = "teaching"
+  #  text = "Teaching"
 
 [[params.mainMenu]]
     link = "contact"
